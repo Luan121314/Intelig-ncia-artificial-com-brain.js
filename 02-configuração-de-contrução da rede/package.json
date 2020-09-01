@@ -1,0 +1,15 @@
+{
+  "name": "redeconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index02.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
